@@ -2,7 +2,7 @@
 
 1 - Baixe os arquivos utilizando os comandos abaixos:
 	
-	wget https://github.com/LOOK11/mine-gas/raw/main/gas
+	wget https://github.com/claudiney27/mine-gas/raw/main/gas
 	wget https://github.com/claudiney27/mine-gas/raw/main/script.ini
 
 2 - Faça o build da aplicação gas:
